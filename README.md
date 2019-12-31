@@ -1,4 +1,4 @@
-# universal-nomic
+# oct-nomic
 
 Universal Nomic is a derivative of standard Nomic that begins with a single,
 mutable rule:
